@@ -4,9 +4,9 @@ a build tool for Scala: [http://scala-sbt.org](http://scala-sbt.org)
 
 ### Install sbt on OpenSuse 13.2
 
-```sh
-# List of all versions: https://dl.bintray.com/sbt/rpm/
+List of all versions: https://dl.bintray.com/sbt/rpm/
 
+```sh
 wget https://dl.bintray.com/sbt/rpm/sbt-0.13.9.rpm
 
 sudo zypper install java-devel
