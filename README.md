@@ -15,3 +15,6 @@ sudo rpm -Uvh sbt-0.13.9.rpm
 
 sbt
 ```
+### Scala.js Tutorial
+
+http://www.scala-js.org/doc/tutorial.html
